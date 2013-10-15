@@ -14,7 +14,7 @@ Folder files and cache must be writable.
 Features
 ========================
 
-- Request to instagram api cached
+- Cached instagram requests
 - Cached pictures
 - Image can be resized with original media module
 
