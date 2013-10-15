@@ -18,6 +18,8 @@ Features
 - Cached pictures
 - Image can be resized with original media module
 
+Instagram access token for your account can be found here: https://apigee.com/console/instagram
+
 Usage:
 
 &lt;ion:instagram access_token="instagramaccesstoken123" limit="9"><br>
