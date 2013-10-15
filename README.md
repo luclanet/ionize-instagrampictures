@@ -15,7 +15,7 @@ Features
 ========================
 
 - Request to instagram api cached
-- Pictures cached
+- Cached pictures
 - Image can be resized with original media module
 
 Usage:
