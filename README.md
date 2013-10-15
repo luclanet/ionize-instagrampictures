@@ -20,11 +20,11 @@ Features
 
 Usage:
 
-&lt;ion:instagram access_token="instagramaccesstoken123" limit="9">
-    &lt;img src="<ion:media size="80,80" />">
-&lt;/ion:instagram>
+&lt;ion:instagram access_token="instagramaccesstoken123" limit="9"><br>
+    &lt;img src="&lt;ion:media size="80,80" />"><br>
+&lt;/ion:instagram><br>
 
 
-&lt;ion:instagram access_token="instagramaccesstoken123" range="2,3">
-    &lt;img src="<ion:media size="80,80" />">
+&lt;ion:instagram access_token="instagramaccesstoken123" range="2,3"><br>
+    &lt;img src="&lt;ion:media size="80,80" />"><br>
 &lt;/ion:instagram>
