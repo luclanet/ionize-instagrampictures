@@ -8,7 +8,7 @@
  * @subpackage	Libraries
  * @category	TagManager Libraries
  * @author    Claudio Mulas - www.luclanet.it
- *
+ */
 class TagManager_Instagram extends TagManager
 {
     public static $tag_definitions = array
